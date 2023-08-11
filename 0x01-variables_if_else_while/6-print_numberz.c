@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  *
- * Description: A program that prints single digit numbers using putchar
+ * Description: printing single digits using putchar
+ *		while using int variable
  *
  * Returm: 0 (Success)
 */
