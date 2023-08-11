@@ -6,7 +6,7 @@
  * Description: printing single digits using putchar
  *		while using int variable
  *
- * Returm: 0 (Success)
+ * Return: 0 (Success)
 */
 
 int main(void)
