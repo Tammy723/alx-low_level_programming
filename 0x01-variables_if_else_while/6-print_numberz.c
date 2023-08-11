@@ -10,9 +10,9 @@
 
 int main(void)
 {
-	int number;
+	int number = 0;
 
-	for (number = 0; number < 10; number++)
+	while (number <= 9)
 	{
 		/* convert digits into ASCII representation*/
 		putchar(number + '0');
