@@ -5,7 +5,7 @@
  * print_to_98 - a function that prints all natural numbers from n to 98
  *		separated by a comma, followed by a space
  *		printed in order
- * @n: parameter
+ * @n: input
  * Return:
  */
 
