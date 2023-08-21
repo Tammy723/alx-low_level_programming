@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	char *srt;
+	char *str;
 
 	str = "0123456789";
 	puts2(str);
