@@ -3,7 +3,7 @@
 
 /**
  * array_iterator - a function that executes a function given
- 		 as a parameter on each element of an array
+ * as a parameter on each element of an array
  * @array: array
  * @size: how many elem to print
  * @action: pointer to print in regular or hex
