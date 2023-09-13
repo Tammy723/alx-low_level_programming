@@ -1,1 +1,1 @@
-A readme for alx low level programming projects
+This directory contains functions and pointers tasks
